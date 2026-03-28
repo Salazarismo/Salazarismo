@@ -8,52 +8,40 @@
   <img src="https://img.shields.io/badge/Focus-Reliability%20%26%20Architecture-0f172a?style=flat-square" />
 </p>
 
-<h1 align="center">Building software that survives reality.</h1>
+<h2 align="center">Building software that survives reality.</h2>
 
 <p align="center">
   Software Engineer focused on <strong>web, mobile, backend architecture, integrations, and operational reliability</strong>.<br/>
   I build systems designed not only to work — but to remain coherent under scale, failure, retries, and real-world constraints.
 </p>
 
----
-
-##  About me
-
-I’m a developer who cares about what happens **after the feature is shipped**.
-
-That means I naturally think about:
-
-- system reliability
-- maintainability over time
-- offline-first behavior
-- retry logic and idempotency
-- API consistency
-- performance under real constraints
-- operational simplicity
-
-I’m especially interested in software that reduces chaos, eliminates friction, and behaves correctly when reality gets messy.
+<p align="center">
+  <a href="https://linkedin.com/in/[LinkedIn](https://www.linkedin.com/in/victor-de-alcantara/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:victor.de.alcantara.bueno@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://[PORTIFOLIO](https://victor-alcantara.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
-##  Core strengths
+## 🧠 How I think
 
-- Turning ambiguous product problems into **clear technical systems**
-- Designing solutions with **predictability, not improvisation**
-- Building software with attention to:
-  - architecture
-  - resilience
-  - consistency
-  - long-term maintainability
-- Working across the full product surface:
-  - frontend
-  - backend
-  - mobile
-  - integrations
-  - infrastructure concerns
+I'm a developer who cares about what happens **after the feature is shipped**.
+
+That means thinking about **offline-first behavior**, **retry logic and idempotency**, **API consistency**, and **performance under real constraints** — not as afterthoughts, but as first-class design decisions.
+
+I'm drawn to problems where correctness matters more than hype, and where the difference between a good system and a great one shows up months later, under load, during an incident at 2am.
+
+> Turning ambiguous product problems into clear, predictable technical systems — that's where I operate best.
 
 ---
 
-##  Tech stack
+## 🛠️ Tech stack
 
 ### Backend
 <p>
@@ -95,20 +83,39 @@ I’m especially interested in software that reduces chaos, eliminates friction,
 
 ---
 
-##  What I like building
+## 📊 Activity
 
-- reliability-oriented systems
-- offline-first workflows
-- sync queues and retry engines
-- payment and external API integrations
-- internal tools that remove operational waste
-- products where correctness matters more than hype
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Salazar&theme=github_dark&show_icons=true&hide_border=true&bg_color=0f172a&title_color=2563eb&icon_color=2563eb&text_color=94a3b8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salazar&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=2563eb&text_color=94a3b8&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Salazar&theme=github-dark-blue&hide_border=true&background=0f172a&ring=2563eb&fire=2563eb&currStreakLabel=94a3b8" />
+</p>
 
 ---
 
-##  Engineering mindset
+## 🔧 What I like building
+
+- Reliability-oriented backend systems and sync engines
+- Offline-first mobile workflows with conflict resolution
+- Payment and external API integrations with proper retry and idempotency
+- Internal tools that eliminate operational friction
+- Architectures where failure is expected and handled gracefully
+
+---
+
+## 💬 Engineering mindset
 
 ```text
 Good software is not the code that works once.
 It is the code that remains understandable, resilient,
 and economically maintainable when everything starts going wrong.
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer" />
+</p>
